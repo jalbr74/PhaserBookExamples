@@ -1,5 +1,10 @@
 var game;
 
+import 'phaser-ce/build/custom/pixi';
+import 'phaser-ce/build/custom/p2';
+
+import * as Phaser from 'phaser-ce';
+
 import Boot from "./states/Boot.js";
 import Preload from "./states/Preload.js";
 import Game from "./states/Game.js";
