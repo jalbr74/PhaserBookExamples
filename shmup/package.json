@@ -3,7 +3,7 @@
     "version": "0.0.0",
     "scripts": {
         "build": "webpack",
-        "serve": "webpack-dev-server --watch --inline"
+        "start": "webpack-dev-server --watch --inline"
     },
     "dependencies": {},
     "devDependencies": {
